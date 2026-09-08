@@ -1,0 +1,78 @@
+{
+  "slug": "cocuk-odasi-calisma-unitesi",
+  "name": "Çocuk Odası Çalışma ve Raf Ünitesi",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "Küçük yaştaki kullanıcı için masa, çekmece ve rafları tek gövdede birleştiren kompakt çalışma ünitesi.",
+  "challenge": "Çalışma ve depolama alanını az yer kaplayan bir düzende birleştirmek.",
+  "solution": "Düşük hacimli çekmece/masa bölümü ile açık rafları aynı kompozisyonda toplamak.",
+  "dimensions": "≈ 2,40 m genişlik × 2,35 m yükseklik",
+  "duration": "3-4 iş günü",
+  "result": "Kitap, kırtasiye ve çalışma yüzeyi için düzenli erişim hedeflenir.",
+  "materials": [
+    "MDF-lam",
+    "Lake"
+  ],
+  "services": [
+    "calisma-masasi",
+    "kitaplik",
+    "ozel-olcu-mobilya"
+  ],
+  "seoTitle": "Çocuk Odası Çalışma ve Raf Ünitesi | Asya Mobilya Ahşap",
+  "seoDescription": "Küçük yaştaki kullanıcı için masa, çekmece ve rafları tek gövdede birleştiren kompakt çalışma ünitesi.",
+  "canonical": "/projeler/cocuk-odasi-calisma-unitesi/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "cocuk-odasi-calisma-unitesi-1",
+      "type": "image",
+      "src": "/media/projects/kids-desk-01.webp",
+      "alt": "Çocuk Odası Çalışma ve Raf Ünitesi — fotoğraf 1",
+      "label": "Çocuk Odası Çalışma ve Raf Ünitesi",
+      "tone": "portfolio",
+      "caption": "Küçük yaştaki kullanıcı için masa, çekmece ve rafları tek gövdede birleştiren kompakt çalışma ünitesi.",
+      "serviceSlugs": [
+        "calisma-masasi",
+        "kitaplik",
+        "ozel-olcu-mobilya"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "cocuk-odasi-calisma-unitesi"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "calisma-masasi",
+    "kitaplik",
+    "ozel-olcu-mobilya"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "cocuk-odasi-calisma-unitesi-1",
+    "type": "image",
+    "src": "/media/projects/kids-desk-01.webp",
+    "alt": "Çocuk Odası Çalışma ve Raf Ünitesi — fotoğraf 1",
+    "label": "Çocuk Odası Çalışma ve Raf Ünitesi",
+    "tone": "portfolio",
+    "caption": "Küçük yaştaki kullanıcı için masa, çekmece ve rafları tek gövdede birleştiren kompakt çalışma ünitesi.",
+    "serviceSlugs": [
+      "calisma-masasi",
+      "kitaplik",
+      "ozel-olcu-mobilya"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "cocuk-odasi-calisma-unitesi"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

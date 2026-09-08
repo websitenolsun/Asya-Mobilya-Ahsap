@@ -1,0 +1,74 @@
+{
+  "slug": "pencere-onu-calisma-masasi",
+  "name": "Pencere Önü Özel Ölçü Çalışma Masası",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "Pencere önündeki alanı çalışma yüzeyine dönüştüren, çekmeceli ve sade çizgili özel ölçü masa kurgusu.",
+  "challenge": "Mevcut duvar ve pencere ilişkisini bozmadan geniş çalışma yüzeyi oluşturmak.",
+  "solution": "Çekmeceli yan modül ve duvarı takip eden masa yüzeyi birlikte planlandı.",
+  "dimensions": "≈ 2,20 m genişlik × 0,65 m derinlik",
+  "duration": "2-3 iş günü",
+  "result": "Doğal ışığı kullanan düzenli bir çalışma köşesi hedeflenir.",
+  "materials": [
+    "Lake/MDF",
+    "Ahşap detay"
+  ],
+  "services": [
+    "calisma-masasi",
+    "ozel-olcu-mobilya"
+  ],
+  "seoTitle": "Pencere Önü Özel Ölçü Çalışma Masası | Asya Mobilya Ahşap",
+  "seoDescription": "Pencere önündeki alanı çalışma yüzeyine dönüştüren, çekmeceli ve sade çizgili özel ölçü masa kurgusu.",
+  "canonical": "/projeler/pencere-onu-calisma-masasi/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "pencere-onu-calisma-masasi-1",
+      "type": "image",
+      "src": "/media/projects/study-desk-01.webp",
+      "alt": "Pencere Önü Özel Ölçü Çalışma Masası — fotoğraf 1",
+      "label": "Pencere Önü Özel Ölçü Çalışma Masası",
+      "tone": "portfolio",
+      "caption": "Pencere önündeki alanı çalışma yüzeyine dönüştüren, çekmeceli ve sade çizgili özel ölçü masa kurgusu.",
+      "serviceSlugs": [
+        "calisma-masasi",
+        "ozel-olcu-mobilya"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "pencere-onu-calisma-masasi"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "calisma-masasi",
+    "ozel-olcu-mobilya"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "pencere-onu-calisma-masasi-1",
+    "type": "image",
+    "src": "/media/projects/study-desk-01.webp",
+    "alt": "Pencere Önü Özel Ölçü Çalışma Masası — fotoğraf 1",
+    "label": "Pencere Önü Özel Ölçü Çalışma Masası",
+    "tone": "portfolio",
+    "caption": "Pencere önündeki alanı çalışma yüzeyine dönüştüren, çekmeceli ve sade çizgili özel ölçü masa kurgusu.",
+    "serviceSlugs": [
+      "calisma-masasi",
+      "ozel-olcu-mobilya"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "pencere-onu-calisma-masasi"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

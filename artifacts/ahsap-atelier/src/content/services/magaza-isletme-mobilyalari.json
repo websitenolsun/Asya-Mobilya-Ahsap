@@ -1,0 +1,72 @@
+{
+  "slug": "magaza-isletme-mobilyalari",
+  "title": "Mağaza ve işletme mobilyaları",
+  "category": "Ticari",
+  "seoTitle": "Mağaza ve işletme mobilyaları | Asya Mobilya Ahşap",
+  "seoDescription": "Mağaza ve işletme mobilyalarında teşhir, müşteri akışı, personel erişimi ve stok depolama birlikte planlanır.",
+  "canonical": "/hizmetler/magaza-isletme-mobilyalari/",
+  "bluf": "Mağaza ve işletme mobilyalarında teşhir, müşteri akışı, personel erişimi ve stok depolama birlikte planlanır.",
+  "description": "Mağaza ve işletme mobilyalarında teşhir, müşteri akışı, personel erişimi ve stok depolama birlikte planlanır.",
+  "scope": [
+    "Teşhir",
+    "Raf",
+    "Kasa/banko",
+    "Depolama",
+    "Duvar uygulamaları"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Metal/cam detay"
+  ],
+  "process": [
+    "Ürün analizi",
+    "Alan ölçüsü",
+    "Yerleşim",
+    "Malzeme",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Modül sayısı",
+    "Ölçü",
+    "Teşhir yoğunluğu",
+    "Malzeme",
+    "Saha koşulları"
+  ],
+  "benefits": [
+    "Teşhir",
+    "Raf",
+    "Kasa/banko",
+    "Depolama",
+    "Duvar uygulamaları"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Mağaza ve işletme mobilyaları süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Mağaza ve işletme mobilyaları fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "banko-resepsiyon",
+    "ofis-mobilyalari",
+    "ahsap-raf-sistemleri",
+    "ozel-olcu-mobilya"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

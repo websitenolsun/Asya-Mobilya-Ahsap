@@ -1,0 +1,69 @@
+{
+  "slug": "ahsap-bolme-dekorasyon",
+  "title": "Ahşap bölme ve dekorasyon",
+  "category": "Ahşap uygulama",
+  "seoTitle": "Ahşap bölme ve dekorasyon | Asya Mobilya Ahşap",
+  "seoDescription": "Ahşap bölme uygulamalarında alanı ayırırken ışık, görüş, dolaşım ve mekânın genel görünümü birlikte dengelenir.",
+  "canonical": "/hizmetler/ahsap-bolme-dekorasyon/",
+  "bluf": "Ahşap bölme uygulamalarında alanı ayırırken ışık, görüş, dolaşım ve mekânın genel görünümü birlikte dengelenir.",
+  "description": "Ahşap bölme uygulamalarında alanı ayırırken ışık, görüş, dolaşım ve mekânın genel görünümü birlikte dengelenir.",
+  "scope": [
+    "Ahşap çıta",
+    "Dekoratif panel",
+    "Duvar detayları",
+    "Entegre raf/bölme"
+  ],
+  "materials": [
+    "Ahşap çıta",
+    "MDF-lam",
+    "Ahşap kaplama",
+    "Lake"
+  ],
+  "process": [
+    "Mekân analizi",
+    "Açıklık/modül ölçüsü",
+    "Desen/ritim",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Alan ölçüsü",
+    "Çıta/panel",
+    "Taşıyıcı",
+    "Yüzey",
+    "Montaj"
+  ],
+  "benefits": [
+    "Ahşap çıta",
+    "Dekoratif panel",
+    "Duvar detayları",
+    "Entegre raf/bölme"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Ahşap bölme ve dekorasyon süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Ahşap bölme ve dekorasyon fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "ahsap-raf-sistemleri",
+    "ahsap-kapi",
+    "ahsap-merdiven",
+    "tv-unitesi"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

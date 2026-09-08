@@ -1,0 +1,79 @@
+{
+  "slug": "resepsiyon-bankosu",
+  "name": "Resepsiyon ve Depolama Bankosu",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "Karşılama, çalışma ve depolamayı aynı düzlemde toplayan koyu yüzeyli, çıta detaylı resepsiyon bankosu kurgusu.",
+  "challenge": "Girişte güçlü bir karşılama yüzeyi oluştururken personel tarafındaki işlevleri korumak.",
+  "solution": "Ön yüz ritmi, çalışma yüzeyi ve alt depolama tek modüler çözümde ele alındı.",
+  "dimensions": "≈ 2,60 m genişlik × 0,80 m derinlik",
+  "duration": "4-6 iş günü",
+  "result": "Karşılama alanında düzenli, güçlü ve işlevsel bir ilk izlenim hedeflenir.",
+  "materials": [
+    "Ahşap çıta",
+    "MDF-lam",
+    "Taş görünümlü yüzey"
+  ],
+  "services": [
+    "banko-resepsiyon",
+    "ofis-mobilyalari",
+    "magaza-isletme-mobilyalari"
+  ],
+  "seoTitle": "Resepsiyon ve Depolama Bankosu | Asya Mobilya Ahşap",
+  "seoDescription": "Karşılama, çalışma ve depolamayı aynı düzlemde toplayan koyu yüzeyli, çıta detaylı resepsiyon bankosu kurgusu.",
+  "canonical": "/projeler/resepsiyon-bankosu/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "resepsiyon-bankosu-1",
+      "type": "image",
+      "src": "/media/projects/reception-bank-01.webp",
+      "alt": "Resepsiyon ve Depolama Bankosu — fotoğraf 1",
+      "label": "Resepsiyon ve Depolama Bankosu",
+      "tone": "portfolio",
+      "caption": "Karşılama, çalışma ve depolamayı aynı düzlemde toplayan koyu yüzeyli, çıta detaylı resepsiyon bankosu kurgusu.",
+      "serviceSlugs": [
+        "banko-resepsiyon",
+        "ofis-mobilyalari",
+        "magaza-isletme-mobilyalari"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "resepsiyon-bankosu"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "banko-resepsiyon",
+    "ofis-mobilyalari",
+    "magaza-isletme-mobilyalari"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "resepsiyon-bankosu-1",
+    "type": "image",
+    "src": "/media/projects/reception-bank-01.webp",
+    "alt": "Resepsiyon ve Depolama Bankosu — fotoğraf 1",
+    "label": "Resepsiyon ve Depolama Bankosu",
+    "tone": "portfolio",
+    "caption": "Karşılama, çalışma ve depolamayı aynı düzlemde toplayan koyu yüzeyli, çıta detaylı resepsiyon bankosu kurgusu.",
+    "serviceSlugs": [
+      "banko-resepsiyon",
+      "ofis-mobilyalari",
+      "magaza-isletme-mobilyalari"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "resepsiyon-bankosu"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

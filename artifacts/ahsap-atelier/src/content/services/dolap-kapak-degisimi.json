@@ -1,0 +1,68 @@
+{
+  "slug": "dolap-kapak-degisimi",
+  "title": "Dolap kapak değişimi",
+  "category": "Tamir ve yenileme",
+  "seoTitle": "Dolap kapak değişimi | Asya Mobilya Ahşap",
+  "seoDescription": "Dolap gövdesi kullanılabilir durumdaysa kapak değişimi görünümü yenilemek için daha sınırlı bir müdahale olabilir; ölçü ve menteşe uyumu kontrol edilir.",
+  "canonical": "/hizmetler/dolap-kapak-degisimi/",
+  "bluf": "Dolap gövdesi kullanılabilir durumdaysa kapak değişimi görünümü yenilemek için daha sınırlı bir müdahale olabilir; ölçü ve menteşe uyumu kontrol edilir.",
+  "description": "Dolap gövdesi kullanılabilir durumdaysa kapak değişimi görünümü yenilemek için daha sınırlı bir müdahale olabilir; ölçü ve menteşe uyumu kontrol edilir.",
+  "scope": [
+    "Mutfak/dolap kapakları",
+    "Kulp değişimi",
+    "Menteşe uyarlaması",
+    "Yüzey değişimi"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Cam detay"
+  ],
+  "process": [
+    "Gövde kontrolü",
+    "Ölçü",
+    "Kapak/yüzey",
+    "Üretim",
+    "Montaj/ayar"
+  ],
+  "pricingFactors": [
+    "Kapak adedi/ölçüsü",
+    "Yüzey",
+    "Kulp",
+    "Menteşe",
+    "Montaj"
+  ],
+  "benefits": [
+    "Mutfak/dolap kapakları",
+    "Kulp değişimi",
+    "Menteşe uyarlaması",
+    "Yüzey değişimi"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Dolap kapak değişimi süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Dolap kapak değişimi fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "mutfak-dolabi-yenileme",
+    "mentese-ray-aksesuar-degisimi",
+    "mobilya-tadilati"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

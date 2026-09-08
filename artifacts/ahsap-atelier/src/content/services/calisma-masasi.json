@@ -1,0 +1,70 @@
+{
+  "slug": "calisma-masasi",
+  "title": "Çalışma masası yapımı",
+  "category": "Özel üretim",
+  "seoTitle": "Çalışma masası yapımı | Asya Mobilya Ahşap",
+  "seoDescription": "Çalışma masasında bilgisayar, monitör, kablolar, depolama ve oturma düzeni aynı ölçü planının parçası olmalıdır.",
+  "canonical": "/hizmetler/calisma-masasi/",
+  "bluf": "Çalışma masasında bilgisayar, monitör, kablolar, depolama ve oturma düzeni aynı ölçü planının parçası olmalıdır.",
+  "description": "Çalışma masasında bilgisayar, monitör, kablolar, depolama ve oturma düzeni aynı ölçü planının parçası olmalıdır.",
+  "scope": [
+    "Çalışma yüzeyi",
+    "Çekmece",
+    "Raf",
+    "Kablo geçişleri"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Masif ahşap"
+  ],
+  "process": [
+    "Çalışma biçimi",
+    "Ergonomi ölçüsü",
+    "Depolama/kablo planı",
+    "Malzeme",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Ölçü",
+    "Çekmece/raf",
+    "Kablo yönetimi",
+    "Malzeme",
+    "Montaj"
+  ],
+  "benefits": [
+    "Çalışma yüzeyi",
+    "Çekmece",
+    "Raf",
+    "Kablo geçişleri"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Çalışma masası yapımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Çalışma masası yapımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "ofis-mobilyalari",
+    "ozel-olcu-mobilya",
+    "kitaplik",
+    "ahsap-raf-sistemleri"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

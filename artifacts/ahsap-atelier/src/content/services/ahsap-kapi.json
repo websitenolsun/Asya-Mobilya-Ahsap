@@ -1,0 +1,68 @@
+{
+  "slug": "ahsap-kapi",
+  "title": "Ahşap kapı yapımı",
+  "category": "Ahşap uygulama",
+  "seoTitle": "Ahşap kapı yapımı | Asya Mobilya Ahşap",
+  "seoDescription": "Ahşap kapıda ölçü; kanadın yanında mevcut açıklık, kasa, menteşe, kilit ve kullanım yönünü de kapsamalıdır.",
+  "canonical": "/hizmetler/ahsap-kapi/",
+  "bluf": "Ahşap kapıda ölçü; kanadın yanında mevcut açıklık, kasa, menteşe, kilit ve kullanım yönünü de kapsamalıdır.",
+  "description": "Ahşap kapıda ölçü; kanadın yanında mevcut açıklık, kasa, menteşe, kilit ve kullanım yönünü de kapsamalıdır.",
+  "scope": [
+    "Kapı kanadı",
+    "Kasa",
+    "Panel/cam detay",
+    "Donanım hazırlığı"
+  ],
+  "materials": [
+    "Masif ahşap",
+    "Ahşap kaplama",
+    "Lake",
+    "Cam detay"
+  ],
+  "process": [
+    "Açıklık/kasa kontrolü",
+    "Model/yüzey",
+    "Donanım",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Kapı ölçüsü",
+    "Yüzey",
+    "Kasa/donanım",
+    "Panel/cam",
+    "Saha"
+  ],
+  "benefits": [
+    "Kapı kanadı",
+    "Kasa",
+    "Panel/cam detay",
+    "Donanım hazırlığı"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Ahşap kapı yapımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Ahşap kapı yapımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "ahsap-bolme-dekorasyon",
+    "ozel-olcu-mobilya",
+    "ahsap-merdiven"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

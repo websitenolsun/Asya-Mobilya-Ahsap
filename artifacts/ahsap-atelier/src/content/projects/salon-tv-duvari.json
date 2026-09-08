@@ -1,0 +1,75 @@
+{
+  "slug": "salon-tv-duvari",
+  "name": "TV Duvarı ve Alt Depolama Ünitesi",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "TV ekranını, alt depolamayı ve kablo/cihaz alanlarını tek bir duvar kompozisyonunda toplamak için kurgulanan özel ölçü çalışma.",
+  "challenge": "Ekran çevresinde görsel kalabalığı azaltırken günlük kullanılan cihazlar için erişilebilir alan bırakmak.",
+  "solution": "Panel, alt modül ve niş etkisini birlikte kullanan yalın bir kompozisyon önerildi.",
+  "dimensions": "≈ 3,60 m duvar genişliği × 2,60 m yükseklik",
+  "duration": "3-4 iş günü",
+  "result": "Ekran, depolama ve dekoratif yüzeylerin tek bir düzende toplanması hedeflenir.",
+  "materials": [
+    "MDF-lam",
+    "Ahşap kaplama",
+    "Metal detay"
+  ],
+  "services": [
+    "tv-unitesi",
+    "ozel-olcu-mobilya"
+  ],
+  "seoTitle": "TV Duvarı ve Alt Depolama Ünitesi | Asya Mobilya Ahşap",
+  "seoDescription": "TV ekranını, alt depolamayı ve kablo/cihaz alanlarını tek bir duvar kompozisyonunda toplamak için kurgulanan özel ölçü çalışma.",
+  "canonical": "/projeler/salon-tv-duvari/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "salon-tv-duvari-1",
+      "type": "image",
+      "src": "/media/projects/tv-unit-01.webp",
+      "alt": "TV Duvarı ve Alt Depolama Ünitesi — fotoğraf 1",
+      "label": "TV Duvarı ve Alt Depolama Ünitesi",
+      "tone": "portfolio",
+      "caption": "TV ekranını, alt depolamayı ve kablo/cihaz alanlarını tek bir duvar kompozisyonunda toplamak için kurgulanan özel ölçü çalışma.",
+      "serviceSlugs": [
+        "tv-unitesi",
+        "ozel-olcu-mobilya"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "salon-tv-duvari"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "tv-unitesi",
+    "ozel-olcu-mobilya"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "salon-tv-duvari-1",
+    "type": "image",
+    "src": "/media/projects/tv-unit-01.webp",
+    "alt": "TV Duvarı ve Alt Depolama Ünitesi — fotoğraf 1",
+    "label": "TV Duvarı ve Alt Depolama Ünitesi",
+    "tone": "portfolio",
+    "caption": "TV ekranını, alt depolamayı ve kablo/cihaz alanlarını tek bir duvar kompozisyonunda toplamak için kurgulanan özel ölçü çalışma.",
+    "serviceSlugs": [
+      "tv-unitesi",
+      "ozel-olcu-mobilya"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "salon-tv-duvari"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

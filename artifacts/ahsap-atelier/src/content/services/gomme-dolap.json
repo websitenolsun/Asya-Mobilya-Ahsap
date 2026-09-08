@@ -1,0 +1,75 @@
+{
+  "slug": "gomme-dolap",
+  "title": "Gömme dolap yapımı",
+  "category": "Depolama",
+  "seoTitle": "Gömme dolap yapımı | Asya Mobilya Ahşap",
+  "seoDescription": "Gömme dolapta niş, kolon, süpürgelik, tavan farkı ve kapak açılımı ölçü sırasında birlikte değerlendirilmelidir.",
+  "canonical": "/hizmetler/gomme-dolap/",
+  "bluf": "Gömme dolapta niş, kolon, süpürgelik, tavan farkı ve kapak açılımı ölçü sırasında birlikte değerlendirilmelidir.",
+  "description": "Gömme dolapta niş, kolon, süpürgelik, tavan farkı ve kapak açılımı ölçü sırasında birlikte değerlendirilmelidir.",
+  "scope": [
+    "Niş/duvar boşlukları",
+    "Tavan uyumu",
+    "Kapak sistemi",
+    "İç depolama"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Masif detay"
+  ],
+  "process": [
+    "Yerinde kontrol",
+    "Net ölçü",
+    "İç düzen",
+    "Kapak/donanım",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Niş karmaşıklığı",
+    "Toplam ölçü",
+    "İç düzen",
+    "Kapak sistemi",
+    "Saha koşulları"
+  ],
+  "benefits": [
+    "Niş/duvar boşlukları",
+    "Tavan uyumu",
+    "Kapak sistemi",
+    "İç depolama"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Gömme dolap yapımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Gömme dolap yapımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    },
+    {
+      "id": "ozel",
+      "question": "Gömme dolap ölçüsünde başka neler kontrol edilir?",
+      "answer": "Süpürgelik, kolon, tavan farkı, prizler, duvarın düşeyliği ve kapakların açılacağı alan da kontrol edilmelidir."
+    }
+  ],
+  "relatedServices": [
+    "gardrop",
+    "yatak-odasi-mobilyalari",
+    "ozel-olcu-mobilya",
+    "ahsap-raf-sistemleri"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

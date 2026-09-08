@@ -1,0 +1,69 @@
+{
+  "slug": "banko-resepsiyon",
+  "title": "Banko ve resepsiyon yapımı",
+  "category": "Ticari",
+  "seoTitle": "Banko ve resepsiyon yapımı | Asya Mobilya Ahşap",
+  "seoDescription": "Bankoda ön yüz kadar personelin çalışma yüksekliği, depolama, elektrik/kablo geçişleri ve karşılama dolaşımı da düşünülmelidir.",
+  "canonical": "/hizmetler/banko-resepsiyon/",
+  "bluf": "Bankoda ön yüz kadar personelin çalışma yüksekliği, depolama, elektrik/kablo geçişleri ve karşılama dolaşımı da düşünülmelidir.",
+  "description": "Bankoda ön yüz kadar personelin çalışma yüksekliği, depolama, elektrik/kablo geçişleri ve karşılama dolaşımı da düşünülmelidir.",
+  "scope": [
+    "Karşılama bankosu",
+    "İç depolama",
+    "Kablo geçişleri",
+    "Arka çalışma modülü"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Metal detay"
+  ],
+  "process": [
+    "Alan analizi",
+    "Ölçü",
+    "Personel tarafı planı",
+    "Malzeme",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Banko ölçüsü",
+    "Personel sayısı",
+    "Depolama",
+    "Yüzey",
+    "Kablo/saha"
+  ],
+  "benefits": [
+    "Karşılama bankosu",
+    "İç depolama",
+    "Kablo geçişleri",
+    "Arka çalışma modülü"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Banko ve resepsiyon yapımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Banko ve resepsiyon yapımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "ofis-mobilyalari",
+    "magaza-isletme-mobilyalari",
+    "ahsap-raf-sistemleri"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

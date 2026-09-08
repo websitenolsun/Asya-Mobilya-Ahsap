@@ -1,0 +1,71 @@
+{
+  "slug": "ozel-olcu-mobilya",
+  "title": "Özel ölçü mobilya yapımı",
+  "category": "Özel üretim",
+  "seoTitle": "Özel ölçü mobilya yapımı | Asya Mobilya Ahşap",
+  "seoDescription": "Standart ölçünün uymadığı alanlar için, mekânın gerçek ölçülerine ve kullanım alışkanlıklarına göre mobilya planlanır; ölçü, malzeme, iç düzen ve montaj birlikte ele alınır.",
+  "canonical": "/hizmetler/ozel-olcu-mobilya/",
+  "bluf": "Standart ölçünün uymadığı alanlar için, mekânın gerçek ölçülerine ve kullanım alışkanlıklarına göre mobilya planlanır; ölçü, malzeme, iç düzen ve montaj birlikte ele alınır.",
+  "description": "Standart ölçünün uymadığı alanlar için, mekânın gerçek ölçülerine ve kullanım alışkanlıklarına göre mobilya planlanır; ölçü, malzeme, iç düzen ve montaj birlikte ele alınır.",
+  "scope": [
+    "Alan ölçüsü",
+    "İç düzen",
+    "Kapak/çekmece",
+    "Üretim ve montaj"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Masif ahşap"
+  ],
+  "process": [
+    "İhtiyaç",
+    "Ölçü",
+    "Malzeme/donanım",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Ölçü ve kapsam",
+    "Malzeme/yüzey",
+    "Donanım",
+    "İşçilik",
+    "Montaj koşulları"
+  ],
+  "benefits": [
+    "Alan ölçüsü",
+    "İç düzen",
+    "Kapak/çekmece",
+    "Üretim ve montaj"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Özel ölçü mobilya yapımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Özel ölçü mobilya yapımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "mutfak-dolabi",
+    "gardrop",
+    "gomme-dolap",
+    "kitaplik",
+    "calisma-masasi",
+    "tv-unitesi"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

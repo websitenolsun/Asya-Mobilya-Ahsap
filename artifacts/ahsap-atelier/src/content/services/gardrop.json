@@ -1,0 +1,75 @@
+{
+  "slug": "gardrop",
+  "title": "Gardırop yapımı",
+  "category": "Depolama",
+  "seoTitle": "Gardırop yapımı | Asya Mobilya Ahşap",
+  "seoDescription": "Gardırop ölçüsü belirlenirken dış ölçünün yanında askı, raf, çekmece, kapak hareketi ve odadaki dolaşım birlikte planlanır.",
+  "canonical": "/hizmetler/gardrop/",
+  "bluf": "Gardırop ölçüsü belirlenirken dış ölçünün yanında askı, raf, çekmece, kapak hareketi ve odadaki dolaşım birlikte planlanır.",
+  "description": "Gardırop ölçüsü belirlenirken dış ölçünün yanında askı, raf, çekmece, kapak hareketi ve odadaki dolaşım birlikte planlanır.",
+  "scope": [
+    "Askı alanı",
+    "Raf/çekmece",
+    "Kapak sistemi",
+    "Üst modül"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Cam detay"
+  ],
+  "process": [
+    "Kullanım analizi",
+    "Ölçü",
+    "İç düzen",
+    "Kapak/donanım",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Dış ölçü",
+    "Kapak tipi",
+    "İç düzen",
+    "Çekmece/aksesuar",
+    "Yüzey"
+  ],
+  "benefits": [
+    "Askı alanı",
+    "Raf/çekmece",
+    "Kapak sistemi",
+    "Üst modül"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Gardırop yapımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Gardırop yapımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    },
+    {
+      "id": "ozel",
+      "question": "Gardırop iç düzeni nasıl belirlenir?",
+      "answer": "Uzun/kısa askı, katlanan kıyafet, ayakkabı, çekmece ve sık kullanılan eşyaların miktarına göre bölümler planlanabilir."
+    }
+  ],
+  "relatedServices": [
+    "gomme-dolap",
+    "yatak-odasi-mobilyalari",
+    "ozel-olcu-mobilya",
+    "dolap-kapak-degisimi"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

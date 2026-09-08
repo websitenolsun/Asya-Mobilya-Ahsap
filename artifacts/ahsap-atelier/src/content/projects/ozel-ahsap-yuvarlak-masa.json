@@ -1,0 +1,78 @@
+{
+  "slug": "ozel-ahsap-yuvarlak-masa",
+  "name": "Özel Ahşap Masa ve Ayak Detayı",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "Yuvarlak formlu, sade ayaklı özel üretim masa için atölye aşamasını gösteren çalışma.",
+  "challenge": "Yuvarlak tablaya uygun dengeli ve yalın bir taşıyıcı form oluşturmak.",
+  "solution": "Tavan/ayak oranı ve tabla kalınlığı sade bir siluet üzerinden ele alındı.",
+  "dimensions": "≈ Ø 120 cm masa tablası",
+  "duration": "3-5 iş günü",
+  "result": "Günlük kullanıma uygun, sade bir özel parça hedeflenir.",
+  "materials": [
+    "Masif ahşap",
+    "Ahşap yüzey"
+  ],
+  "services": [
+    "yemek-masasi",
+    "sehpa",
+    "ozel-olcu-mobilya"
+  ],
+  "seoTitle": "Özel Ahşap Masa ve Ayak Detayı | Asya Mobilya Ahşap",
+  "seoDescription": "Yuvarlak formlu, sade ayaklı özel üretim masa için atölye aşamasını gösteren çalışma.",
+  "canonical": "/projeler/ozel-ahsap-yuvarlak-masa/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "ozel-ahsap-yuvarlak-masa-1",
+      "type": "image",
+      "src": "/media/projects/round-table-01.webp",
+      "alt": "Özel Ahşap Masa ve Ayak Detayı — fotoğraf 1",
+      "label": "Özel Ahşap Masa ve Ayak Detayı",
+      "tone": "portfolio",
+      "caption": "Yuvarlak formlu, sade ayaklı özel üretim masa için atölye aşamasını gösteren çalışma.",
+      "serviceSlugs": [
+        "yemek-masasi",
+        "sehpa",
+        "ozel-olcu-mobilya"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "ozel-ahsap-yuvarlak-masa"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "yemek-masasi",
+    "sehpa",
+    "ozel-olcu-mobilya"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "ozel-ahsap-yuvarlak-masa-1",
+    "type": "image",
+    "src": "/media/projects/round-table-01.webp",
+    "alt": "Özel Ahşap Masa ve Ayak Detayı — fotoğraf 1",
+    "label": "Özel Ahşap Masa ve Ayak Detayı",
+    "tone": "portfolio",
+    "caption": "Yuvarlak formlu, sade ayaklı özel üretim masa için atölye aşamasını gösteren çalışma.",
+    "serviceSlugs": [
+      "yemek-masasi",
+      "sehpa",
+      "ozel-olcu-mobilya"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "ozel-ahsap-yuvarlak-masa"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "ofis-mobilyalari",
+  "title": "Ofis mobilyaları",
+  "category": "Ticari",
+  "seoTitle": "Ofis mobilyaları | Asya Mobilya Ahşap",
+  "seoDescription": "Ofis mobilyası planında masa sayısından önce ekiplerin çalışma biçimi, depolama, toplantı ve dolaşım ihtiyaçları değerlendirilmelidir.",
+  "canonical": "/hizmetler/ofis-mobilyalari/",
+  "bluf": "Ofis mobilyası planında masa sayısından önce ekiplerin çalışma biçimi, depolama, toplantı ve dolaşım ihtiyaçları değerlendirilmelidir.",
+  "description": "Ofis mobilyası planında masa sayısından önce ekiplerin çalışma biçimi, depolama, toplantı ve dolaşım ihtiyaçları değerlendirilmelidir.",
+  "scope": [
+    "Çalışma masaları",
+    "Depolama",
+    "Toplantı",
+    "Raf/dolap"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Metal detay"
+  ],
+  "process": [
+    "İş akışı",
+    "Alan ölçümü",
+    "Yerleşim",
+    "Malzeme/donanım",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Modül sayısı",
+    "Ölçüler",
+    "Depolama",
+    "Yüzey",
+    "Montaj"
+  ],
+  "benefits": [
+    "Çalışma masaları",
+    "Depolama",
+    "Toplantı",
+    "Raf/dolap"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Ofis mobilyaları süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Ofis mobilyaları fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "calisma-masasi",
+    "banko-resepsiyon",
+    "ahsap-raf-sistemleri",
+    "magaza-isletme-mobilyalari"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "mutfak-dolabi",
+  "title": "Mutfak dolabı yapımı",
+  "category": "Mutfak",
+  "seoTitle": "Mutfak dolabı yapımı | Asya Mobilya Ahşap",
+  "seoDescription": "Mutfak dolabında doğru sonuç; ölçü, depolama, cihaz yerleşimi, çalışma alanı ve donanımın birlikte planlanmasına bağlıdır.",
+  "canonical": "/hizmetler/mutfak-dolabi/",
+  "bluf": "Mutfak dolabında doğru sonuç; ölçü, depolama, cihaz yerleşimi, çalışma alanı ve donanımın birlikte planlanmasına bağlıdır.",
+  "description": "Mutfak dolabında doğru sonuç; ölçü, depolama, cihaz yerleşimi, çalışma alanı ve donanımın birlikte planlanmasına bağlıdır.",
+  "scope": [
+    "Alt/üst dolap",
+    "Çekmece",
+    "Cihaz modülleri",
+    "Açık/kapalı depolama"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Masif detaylar"
+  ],
+  "process": [
+    "İhtiyaç analizi",
+    "Yerinde ölçü",
+    "Modül planı",
+    "Malzeme/donanım",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Toplam ölçü",
+    "Kapak/yüzey",
+    "Çekmece/iç aksesuar",
+    "Cihaz/tezgâh bağlantıları",
+    "Saha koşulları"
+  ],
+  "benefits": [
+    "Alt/üst dolap",
+    "Çekmece",
+    "Cihaz modülleri",
+    "Açık/kapalı depolama"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Mutfak dolabı yapımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Mutfak dolabı yapımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    },
+    {
+      "id": "ozel",
+      "question": "Mutfak dolabında hangi detaylar baştan planlanmalı?",
+      "answer": "Cihaz boşlukları, çekmeceler, köşe kullanımı, priz ve tesisat noktaları ile sık kullanılan eşyaların yerleri baştan düşünülmelidir."
+    }
+  ],
+  "relatedServices": [
+    "mutfak-dolabi-yenileme",
+    "ozel-olcu-mobilya",
+    "ahsap-raf-sistemleri",
+    "ahsap-bolme-dekorasyon"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

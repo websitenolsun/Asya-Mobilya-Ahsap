@@ -1,0 +1,67 @@
+{
+  "slug": "ahsap-merdiven",
+  "title": "Ahşap merdiven işleri",
+  "category": "Ahşap uygulama",
+  "seoTitle": "Ahşap merdiven işleri | Asya Mobilya Ahşap",
+  "seoDescription": "Ahşap merdiven işinde mevcut açıklık, basamak, rıht, korkuluk ve taşıyıcı yapı birlikte değerlendirilir; yerinde ölçü önemlidir.",
+  "canonical": "/hizmetler/ahsap-merdiven/",
+  "bluf": "Ahşap merdiven işinde mevcut açıklık, basamak, rıht, korkuluk ve taşıyıcı yapı birlikte değerlendirilir; yerinde ölçü önemlidir.",
+  "description": "Ahşap merdiven işinde mevcut açıklık, basamak, rıht, korkuluk ve taşıyıcı yapı birlikte değerlendirilir; yerinde ölçü önemlidir.",
+  "scope": [
+    "Ahşap basamak",
+    "Rıht kaplama",
+    "Korkuluk",
+    "Küpeşte"
+  ],
+  "materials": [
+    "Masif ahşap",
+    "Ahşap kaplama",
+    "Metal detay"
+  ],
+  "process": [
+    "Keşif/ölçüm",
+    "Mevcut yapı",
+    "Malzeme",
+    "Detay/üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Merdiven ölçüsü",
+    "Basamak/rıht",
+    "Malzeme",
+    "Korkuluk",
+    "Saha"
+  ],
+  "benefits": [
+    "Ahşap basamak",
+    "Rıht kaplama",
+    "Korkuluk",
+    "Küpeşte"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Ahşap merdiven işleri süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Ahşap merdiven işleri fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "ahsap-kapi",
+    "ahsap-bolme-dekorasyon",
+    "ozel-olcu-mobilya"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

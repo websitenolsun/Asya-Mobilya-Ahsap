@@ -1,0 +1,74 @@
+{
+  "slug": "banyo-lavabo-alt-modulu",
+  "name": "Banyo Lavabo Alt Modülü",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "Dar bir banyo alanında lavabo altını depolama ve sıcak ahşap yüzey ile değerlendiren kompakt mobilya çözümü.",
+  "challenge": "Nemli hacimde sınırlı alanı sade bir depolama modülüne dönüştürmek.",
+  "solution": "Lavabo altı ölçüsüne göre minimal gövde ve açık raf etkisi kurgulandı.",
+  "dimensions": "≈ 120 cm genişlik × 50 cm derinlik",
+  "duration": "2-3 iş günü",
+  "result": "Lavabo çevresindeki günlük kullanım eşyalarını toparlayan çözüm hedeflenir.",
+  "materials": [
+    "Suya uygun yüzey seçimi",
+    "Ahşap detay"
+  ],
+  "services": [
+    "ozel-olcu-mobilya",
+    "mobilya-tadilati"
+  ],
+  "seoTitle": "Banyo Lavabo Alt Modülü | Asya Mobilya Ahşap",
+  "seoDescription": "Dar bir banyo alanında lavabo altını depolama ve sıcak ahşap yüzey ile değerlendiren kompakt mobilya çözümü.",
+  "canonical": "/projeler/banyo-lavabo-alt-modulu/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "banyo-lavabo-alt-modulu-1",
+      "type": "image",
+      "src": "/media/projects/bathroom-vanity-01.webp",
+      "alt": "Banyo Lavabo Alt Modülü — fotoğraf 1",
+      "label": "Banyo Lavabo Alt Modülü",
+      "tone": "portfolio",
+      "caption": "Dar bir banyo alanında lavabo altını depolama ve sıcak ahşap yüzey ile değerlendiren kompakt mobilya çözümü.",
+      "serviceSlugs": [
+        "ozel-olcu-mobilya",
+        "mobilya-tadilati"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "banyo-lavabo-alt-modulu"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "ozel-olcu-mobilya",
+    "mobilya-tadilati"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "banyo-lavabo-alt-modulu-1",
+    "type": "image",
+    "src": "/media/projects/bathroom-vanity-01.webp",
+    "alt": "Banyo Lavabo Alt Modülü — fotoğraf 1",
+    "label": "Banyo Lavabo Alt Modülü",
+    "tone": "portfolio",
+    "caption": "Dar bir banyo alanında lavabo altını depolama ve sıcak ahşap yüzey ile değerlendiren kompakt mobilya çözümü.",
+    "serviceSlugs": [
+      "ozel-olcu-mobilya",
+      "mobilya-tadilati"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "banyo-lavabo-alt-modulu"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

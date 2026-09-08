@@ -1,0 +1,106 @@
+{
+  "slug": "ic-mekan-panel-kapilar",
+  "name": "İç Mekân Panel Kapılar",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "İç kapıların aynı panel diliyle tekrarlandığı, beyaz yüzey ve sade dikey oranlar üzerinden kurgulanan kapı çalışması.",
+  "challenge": "Farklı odaların kapılarını ortak bir iç mimari dilde toplamak.",
+  "solution": "Panel oranlarını ve yüzey dilini tekrarlayan sade kapılar kullanmak.",
+  "dimensions": "3 adet kapı açıklığı; ölçüler keşifte netleşir",
+  "duration": "3-5 iş günü",
+  "result": "İç mekânda bütünlüklü bir kapı dili hedeflenir.",
+  "materials": [
+    "MDF/ahşap yüzey",
+    "Boya/lake yüzey"
+  ],
+  "services": [
+    "ahsap-kapi"
+  ],
+  "seoTitle": "İç Mekân Panel Kapılar | Asya Mobilya Ahşap",
+  "seoDescription": "İç kapıların aynı panel diliyle tekrarlandığı, beyaz yüzey ve sade dikey oranlar üzerinden kurgulanan kapı çalışması.",
+  "canonical": "/projeler/ic-mekan-panel-kapilar/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "ic-mekan-panel-kapilar-1",
+      "type": "image",
+      "src": "/media/projects/door-01.webp",
+      "alt": "İç Mekân Panel Kapılar — fotoğraf 1",
+      "label": "İç Mekân Panel Kapılar",
+      "tone": "portfolio",
+      "caption": "İç kapıların aynı panel diliyle tekrarlandığı, beyaz yüzey ve sade dikey oranlar üzerinden kurgulanan kapı çalışması.",
+      "serviceSlugs": [
+        "ahsap-kapi"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "ic-mekan-panel-kapilar"
+      ]
+    },
+    {
+      "id": "ic-mekan-panel-kapilar-2",
+      "type": "image",
+      "src": "/media/projects/door-02.webp",
+      "alt": "İç Mekân Panel Kapılar — fotoğraf 2",
+      "label": "İç Mekân Panel Kapılar",
+      "tone": "portfolio",
+      "caption": "İç kapıların aynı panel diliyle tekrarlandığı, beyaz yüzey ve sade dikey oranlar üzerinden kurgulanan kapı çalışması.",
+      "serviceSlugs": [
+        "ahsap-kapi"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "ic-mekan-panel-kapilar"
+      ]
+    },
+    {
+      "id": "ic-mekan-panel-kapilar-3",
+      "type": "image",
+      "src": "/media/projects/door-03.webp",
+      "alt": "İç Mekân Panel Kapılar — fotoğraf 3",
+      "label": "İç Mekân Panel Kapılar",
+      "tone": "portfolio",
+      "caption": "İç kapıların aynı panel diliyle tekrarlandığı, beyaz yüzey ve sade dikey oranlar üzerinden kurgulanan kapı çalışması.",
+      "serviceSlugs": [
+        "ahsap-kapi"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "ic-mekan-panel-kapilar"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "ahsap-kapi"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "ic-mekan-panel-kapilar-1",
+    "type": "image",
+    "src": "/media/projects/door-01.webp",
+    "alt": "İç Mekân Panel Kapılar — fotoğraf 1",
+    "label": "İç Mekân Panel Kapılar",
+    "tone": "portfolio",
+    "caption": "İç kapıların aynı panel diliyle tekrarlandığı, beyaz yüzey ve sade dikey oranlar üzerinden kurgulanan kapı çalışması.",
+    "serviceSlugs": [
+      "ahsap-kapi"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "ic-mekan-panel-kapilar"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

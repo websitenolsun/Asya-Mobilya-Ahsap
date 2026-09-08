@@ -1,0 +1,67 @@
+{
+  "slug": "yemek-masasi",
+  "title": "Yemek masası yapımı",
+  "category": "Özel üretim",
+  "seoTitle": "Yemek masası yapımı | Asya Mobilya Ahşap",
+  "seoDescription": "Yemek masasında ölçü seçimi, masa çevresindeki sandalye çekme mesafesi ve odadaki dolaşımla birlikte yapılmalıdır.",
+  "canonical": "/hizmetler/yemek-masasi/",
+  "bluf": "Yemek masasında ölçü seçimi, masa çevresindeki sandalye çekme mesafesi ve odadaki dolaşımla birlikte yapılmalıdır.",
+  "description": "Yemek masasında ölçü seçimi, masa çevresindeki sandalye çekme mesafesi ve odadaki dolaşımla birlikte yapılmalıdır.",
+  "scope": [
+    "Özel ölçü",
+    "Farklı formlar",
+    "Ayak çözümleri",
+    "Mekâna uyum"
+  ],
+  "materials": [
+    "Masif ahşap",
+    "Ahşap kaplama",
+    "MDF-lam"
+  ],
+  "process": [
+    "Oturma planı",
+    "Alan ölçüsü",
+    "Form",
+    "Malzeme",
+    "Üretim",
+    "Teslim/montaj"
+  ],
+  "pricingFactors": [
+    "Ölçü",
+    "Malzeme",
+    "Ayak sistemi",
+    "Yüzey",
+    "Özel detay"
+  ],
+  "benefits": [
+    "Özel ölçü",
+    "Farklı formlar",
+    "Ayak çözümleri",
+    "Mekâna uyum"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Yemek masası yapımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Yemek masası yapımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "sehpa",
+    "ozel-olcu-mobilya"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

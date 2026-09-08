@@ -1,0 +1,99 @@
+{
+  "slug": "ayna-kapakli-gardirop",
+  "name": "Ayna Kapaklı Gardırop",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "Yatak odasında depolama ihtiyacını tavandan zemine yaklaşan kapaklı bir dolap yüzeyiyle çözmek ve ayna kapaklarla alanın daha ferah algılanmasını desteklemek üzerine kurgulanan çalışma.",
+  "challenge": "Geniş depolamayı odanın genel görünümünü ağırlaştırmadan çözmek.",
+  "solution": "Dikey depolama ve yansıtıcı kapak yüzeyi birlikte düşünülerek sade bir cephe oluşturuldu.",
+  "dimensions": "≈ 2,80 m genişlik × 2,40 m yükseklik",
+  "duration": "3-5 iş günü",
+  "result": "Depolama ile oda cephesinin daha bütünleşik görünmesi hedeflenir.",
+  "materials": [
+    "MDF-lam",
+    "Ayna yüzey",
+    "Alüminyum profil"
+  ],
+  "services": [
+    "gardrop",
+    "gomme-dolap",
+    "yatak-odasi-mobilyalari"
+  ],
+  "seoTitle": "Ayna Kapaklı Gardırop | Asya Mobilya Ahşap",
+  "seoDescription": "Yatak odasında depolama ihtiyacını tavandan zemine yaklaşan kapaklı bir dolap yüzeyiyle çözmek ve ayna kapaklarla alanın daha ferah algılanmasını desteklemek üzerine kurgulanan çalışma.",
+  "canonical": "/projeler/ayna-kapakli-gardirop/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "ayna-kapakli-gardirop-1",
+      "type": "image",
+      "src": "/media/projects/mirror-wardrobe-01.webp",
+      "alt": "Ayna Kapaklı Gardırop — fotoğraf 1",
+      "label": "Ayna Kapaklı Gardırop",
+      "tone": "portfolio",
+      "caption": "Yatak odasında depolama ihtiyacını tavandan zemine yaklaşan kapaklı bir dolap yüzeyiyle çözmek ve ayna kapaklarla alanın daha ferah algılanmasını desteklemek üzerine kurgulanan çalışma.",
+      "serviceSlugs": [
+        "gardrop",
+        "gomme-dolap",
+        "yatak-odasi-mobilyalari"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "ayna-kapakli-gardirop"
+      ]
+    },
+    {
+      "id": "ayna-kapakli-gardirop-2",
+      "type": "image",
+      "src": "/media/projects/wardrobe-02.webp",
+      "alt": "Ayna Kapaklı Gardırop — fotoğraf 2",
+      "label": "Ayna Kapaklı Gardırop",
+      "tone": "portfolio",
+      "caption": "Yatak odasında depolama ihtiyacını tavandan zemine yaklaşan kapaklı bir dolap yüzeyiyle çözmek ve ayna kapaklarla alanın daha ferah algılanmasını desteklemek üzerine kurgulanan çalışma.",
+      "serviceSlugs": [
+        "gardrop",
+        "gomme-dolap",
+        "yatak-odasi-mobilyalari"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "ayna-kapakli-gardirop"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "gardrop",
+    "gomme-dolap",
+    "yatak-odasi-mobilyalari"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "ayna-kapakli-gardirop-1",
+    "type": "image",
+    "src": "/media/projects/mirror-wardrobe-01.webp",
+    "alt": "Ayna Kapaklı Gardırop — fotoğraf 1",
+    "label": "Ayna Kapaklı Gardırop",
+    "tone": "portfolio",
+    "caption": "Yatak odasında depolama ihtiyacını tavandan zemine yaklaşan kapaklı bir dolap yüzeyiyle çözmek ve ayna kapaklarla alanın daha ferah algılanmasını desteklemek üzerine kurgulanan çalışma.",
+    "serviceSlugs": [
+      "gardrop",
+      "gomme-dolap",
+      "yatak-odasi-mobilyalari"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "ayna-kapakli-gardirop"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

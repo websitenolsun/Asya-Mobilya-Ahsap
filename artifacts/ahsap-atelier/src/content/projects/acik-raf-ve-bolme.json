@@ -1,0 +1,78 @@
+{
+  "slug": "acik-raf-ve-bolme",
+  "name": "Açık Raf ve Ahşap Bölme Sistemi",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "Geçiş alanını tamamen kapatmadan depolama ve görsel ayırıcı etkisi oluşturan açık raf kompozisyonu.",
+  "challenge": "İki kullanım alanını birbirinden ayırırken ışık ve görsel açıklığı korumak.",
+  "solution": "Açık rafların modüler ritmiyle depolama ve bölme etkisini aynı yüzeyde birleştirmek.",
+  "dimensions": "≈ 2,80 m genişlik × 2,40 m yükseklik",
+  "duration": "3-4 iş günü",
+  "result": "Mekânın iki bölümünü görsel olarak ilişkilendiren hafif bir bölme hedeflenir.",
+  "materials": [
+    "MDF-lam",
+    "Ahşap kaplama"
+  ],
+  "services": [
+    "ahsap-raf-sistemleri",
+    "ahsap-bolme-dekorasyon",
+    "kitaplik"
+  ],
+  "seoTitle": "Açık Raf ve Ahşap Bölme Sistemi | Asya Mobilya Ahşap",
+  "seoDescription": "Geçiş alanını tamamen kapatmadan depolama ve görsel ayırıcı etkisi oluşturan açık raf kompozisyonu.",
+  "canonical": "/projeler/acik-raf-ve-bolme/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "acik-raf-ve-bolme-1",
+      "type": "image",
+      "src": "/media/projects/shelving-01.webp",
+      "alt": "Açık Raf ve Ahşap Bölme Sistemi — fotoğraf 1",
+      "label": "Açık Raf ve Ahşap Bölme Sistemi",
+      "tone": "portfolio",
+      "caption": "Geçiş alanını tamamen kapatmadan depolama ve görsel ayırıcı etkisi oluşturan açık raf kompozisyonu.",
+      "serviceSlugs": [
+        "ahsap-raf-sistemleri",
+        "ahsap-bolme-dekorasyon",
+        "kitaplik"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "acik-raf-ve-bolme"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "ahsap-raf-sistemleri",
+    "ahsap-bolme-dekorasyon",
+    "kitaplik"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "acik-raf-ve-bolme-1",
+    "type": "image",
+    "src": "/media/projects/shelving-01.webp",
+    "alt": "Açık Raf ve Ahşap Bölme Sistemi — fotoğraf 1",
+    "label": "Açık Raf ve Ahşap Bölme Sistemi",
+    "tone": "portfolio",
+    "caption": "Geçiş alanını tamamen kapatmadan depolama ve görsel ayırıcı etkisi oluşturan açık raf kompozisyonu.",
+    "serviceSlugs": [
+      "ahsap-raf-sistemleri",
+      "ahsap-bolme-dekorasyon",
+      "kitaplik"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "acik-raf-ve-bolme"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

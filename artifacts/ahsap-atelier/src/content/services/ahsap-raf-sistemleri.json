@@ -1,0 +1,75 @@
+{
+  "slug": "ahsap-raf-sistemleri",
+  "title": "Ahşap raf ve raf sistemleri",
+  "category": "Ahşap uygulama",
+  "seoTitle": "Ahşap raf ve raf sistemleri | Asya Mobilya Ahşap",
+  "seoDescription": "Raf sisteminde taşıyacağı yük, açıklık, duvar tipi ve kullanım amacı birlikte değerlendirilmelidir.",
+  "canonical": "/hizmetler/ahsap-raf-sistemleri/",
+  "bluf": "Raf sisteminde taşıyacağı yük, açıklık, duvar tipi ve kullanım amacı birlikte değerlendirilmelidir.",
+  "description": "Raf sisteminde taşıyacağı yük, açıklık, duvar tipi ve kullanım amacı birlikte değerlendirilmelidir.",
+  "scope": [
+    "Duvar rafları",
+    "Kitap rafları",
+    "Sabit sistemler",
+    "Ticari raf çözümleri"
+  ],
+  "materials": [
+    "Masif ahşap",
+    "Ahşap kaplama",
+    "MDF-lam",
+    "Metal taşıyıcı"
+  ],
+  "process": [
+    "Kullanım/yük",
+    "Duvar ölçüsü",
+    "Taşıyıcı planı",
+    "Malzeme",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Raf uzunluğu",
+    "Yük",
+    "Taşıyıcı",
+    "Malzeme",
+    "Montaj"
+  ],
+  "benefits": [
+    "Duvar rafları",
+    "Kitap rafları",
+    "Sabit sistemler",
+    "Ticari raf çözümleri"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Ahşap raf ve raf sistemleri süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Ahşap raf ve raf sistemleri fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    },
+    {
+      "id": "ozel",
+      "question": "Raf sisteminde taşıma yükü neden önemli?",
+      "answer": "Raf açıklığı, malzeme, kalınlık, taşıyıcı tipi ve duvar bağlantısı birlikte değerlendirilmelidir."
+    }
+  ],
+  "relatedServices": [
+    "kitaplik",
+    "gomme-dolap",
+    "magaza-isletme-mobilyalari",
+    "ofis-mobilyalari"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

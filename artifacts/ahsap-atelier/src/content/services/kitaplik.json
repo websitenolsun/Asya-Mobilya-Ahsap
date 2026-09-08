@@ -1,0 +1,70 @@
+{
+  "slug": "kitaplik",
+  "title": "Kitaplık yapımı",
+  "category": "Özel üretim",
+  "seoTitle": "Kitaplık yapımı | Asya Mobilya Ahşap",
+  "seoDescription": "Kitaplıkta raf aralığı kadar kitapların ağırlığı, duvar uzunluğu, taşıyıcı düzen ve açık/kapalı bölümlerin oranı da önemlidir.",
+  "canonical": "/hizmetler/kitaplik/",
+  "bluf": "Kitaplıkta raf aralığı kadar kitapların ağırlığı, duvar uzunluğu, taşıyıcı düzen ve açık/kapalı bölümlerin oranı da önemlidir.",
+  "description": "Kitaplıkta raf aralığı kadar kitapların ağırlığı, duvar uzunluğu, taşıyıcı düzen ve açık/kapalı bölümlerin oranı da önemlidir.",
+  "scope": [
+    "Duvar boyu",
+    "Açık raf",
+    "Kapaklı modül",
+    "Alt depolama"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Masif raf"
+  ],
+  "process": [
+    "Eşya analizi",
+    "Duvar ölçüsü",
+    "Raf/taşıyıcı planı",
+    "Malzeme",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Duvar ölçüsü",
+    "Raf sayısı",
+    "Kapaklı modül",
+    "Taşıyıcı",
+    "Yüzey"
+  ],
+  "benefits": [
+    "Duvar boyu",
+    "Açık raf",
+    "Kapaklı modül",
+    "Alt depolama"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Kitaplık yapımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Kitaplık yapımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "ahsap-raf-sistemleri",
+    "ozel-olcu-mobilya",
+    "tv-unitesi",
+    "gomme-dolap"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

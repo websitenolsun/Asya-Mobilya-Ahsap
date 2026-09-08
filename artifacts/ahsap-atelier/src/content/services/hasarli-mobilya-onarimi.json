@@ -1,0 +1,67 @@
+{
+  "slug": "hasarli-mobilya-onarimi",
+  "title": "Hasarlı mobilya onarımı",
+  "category": "Tamir ve yenileme",
+  "seoTitle": "Hasarlı mobilya onarımı | Asya Mobilya Ahşap",
+  "seoDescription": "Kırık, çatlak, darbe veya çizik gibi hasarlarda önce parçanın yapısal durumu belirlenir; sonra onarım, yüzey işlemi veya parça değişimi planlanır.",
+  "canonical": "/hizmetler/hasarli-mobilya-onarimi/",
+  "bluf": "Kırık, çatlak, darbe veya çizik gibi hasarlarda önce parçanın yapısal durumu belirlenir; sonra onarım, yüzey işlemi veya parça değişimi planlanır.",
+  "description": "Kırık, çatlak, darbe veya çizik gibi hasarlarda önce parçanın yapısal durumu belirlenir; sonra onarım, yüzey işlemi veya parça değişimi planlanır.",
+  "scope": [
+    "Kırık/çatlak",
+    "Darbe",
+    "Çizik/yüzey",
+    "Bağlantı hasarı"
+  ],
+  "materials": [
+    "Mevcut malzeme",
+    "Onarım ürünleri",
+    "Bağlantı/yedek parçalar"
+  ],
+  "process": [
+    "Hasar tespiti",
+    "Yapısal/yüzey ayrımı",
+    "Yöntem",
+    "Uygulama",
+    "Kontrol"
+  ],
+  "pricingFactors": [
+    "Hasarın yayılımı",
+    "Malzeme",
+    "Yedek parça",
+    "Yüzey",
+    "İşçilik"
+  ],
+  "benefits": [
+    "Kırık/çatlak",
+    "Darbe",
+    "Çizik/yüzey",
+    "Bağlantı hasarı"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Hasarlı mobilya onarımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Hasarlı mobilya onarımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "mobilya-tamiri",
+    "mobilya-tadilati",
+    "eski-mobilya-yenileme"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "mobilya-tadilati",
+  "title": "Mobilya tadilatı",
+  "category": "Tamir ve yenileme",
+  "seoTitle": "Mobilya tadilatı | Asya Mobilya Ahşap",
+  "seoDescription": "Mobilya tadilatı, mevcut parçayı tamamen değiştirmeden ölçü, kullanım, iç düzen, kapak veya donanım gibi belirli bölümleri uyarlamaya yönelik olabilir.",
+  "canonical": "/hizmetler/mobilya-tadilati/",
+  "bluf": "Mobilya tadilatı, mevcut parçayı tamamen değiştirmeden ölçü, kullanım, iç düzen, kapak veya donanım gibi belirli bölümleri uyarlamaya yönelik olabilir.",
+  "description": "Mobilya tadilatı, mevcut parçayı tamamen değiştirmeden ölçü, kullanım, iç düzen, kapak veya donanım gibi belirli bölümleri uyarlamaya yönelik olabilir.",
+  "scope": [
+    "Ölçü değişimi",
+    "İç düzen",
+    "Kapak/panel",
+    "Donanım"
+  ],
+  "materials": [
+    "Mevcut malzeme",
+    "Yeni panel/kapak",
+    "Yeni donanım"
+  ],
+  "process": [
+    "Mevcut durum",
+    "Uygunluk",
+    "Tadilat kapsamı",
+    "Uygulama",
+    "Kontrol"
+  ],
+  "pricingFactors": [
+    "Parça kapsamı",
+    "Gövde durumu",
+    "Malzeme uyumu",
+    "Donanım",
+    "İşçilik"
+  ],
+  "benefits": [
+    "Ölçü değişimi",
+    "İç düzen",
+    "Kapak/panel",
+    "Donanım"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Mobilya tadilatı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Mobilya tadilatı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "mobilya-tamiri",
+    "dolap-kapak-degisimi",
+    "hasarli-mobilya-onarimi",
+    "eski-mobilya-yenileme"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

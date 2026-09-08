@@ -1,0 +1,70 @@
+{
+  "slug": "ahsap-merdiven-detayi",
+  "name": "Ahşap Basamak ve Merdiven Detayı",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "Ahşap basamak, yan taşıyıcı ve korkuluk detaylarını aynı görsel dilde birleştiren iç mekân uygulaması.",
+  "challenge": "Merdivenin yapısal işlevini korurken ahşap yüzeyin mekânda baskın ama dengeli görünmesini sağlamak.",
+  "solution": "Basamak çizgisi ve korkuluk ritmi sadeleştirilerek bütünlüklü bir ahşap karakter oluşturmak.",
+  "dimensions": "≈ 13-15 basamak; mevcut geometriye göre",
+  "duration": "4-6 iş günü",
+  "result": "Merdivenin mimari eleman olarak öne çıkması hedeflenir.",
+  "materials": [
+    "Masif ahşap",
+    "Metal korkuluk detayları"
+  ],
+  "services": [
+    "ahsap-merdiven"
+  ],
+  "seoTitle": "Ahşap Basamak ve Merdiven Detayı | Asya Mobilya Ahşap",
+  "seoDescription": "Ahşap basamak, yan taşıyıcı ve korkuluk detaylarını aynı görsel dilde birleştiren iç mekân uygulaması.",
+  "canonical": "/projeler/ahsap-merdiven-detayi/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "ahsap-merdiven-detayi-1",
+      "type": "image",
+      "src": "/media/projects/stair-01.webp",
+      "alt": "Ahşap Basamak ve Merdiven Detayı — fotoğraf 1",
+      "label": "Ahşap Basamak ve Merdiven Detayı",
+      "tone": "portfolio",
+      "caption": "Ahşap basamak, yan taşıyıcı ve korkuluk detaylarını aynı görsel dilde birleştiren iç mekân uygulaması.",
+      "serviceSlugs": [
+        "ahsap-merdiven"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "ahsap-merdiven-detayi"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "ahsap-merdiven"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "ahsap-merdiven-detayi-1",
+    "type": "image",
+    "src": "/media/projects/stair-01.webp",
+    "alt": "Ahşap Basamak ve Merdiven Detayı — fotoğraf 1",
+    "label": "Ahşap Basamak ve Merdiven Detayı",
+    "tone": "portfolio",
+    "caption": "Ahşap basamak, yan taşıyıcı ve korkuluk detaylarını aynı görsel dilde birleştiren iç mekân uygulaması.",
+    "serviceSlugs": [
+      "ahsap-merdiven"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "ahsap-merdiven-detayi"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

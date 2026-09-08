@@ -1,0 +1,70 @@
+{
+  "slug": "yatak-odasi-mobilyalari",
+  "title": "Yatak odası mobilyaları",
+  "category": "Özel üretim",
+  "seoTitle": "Yatak odası mobilyaları | Asya Mobilya Ahşap",
+  "seoDescription": "Yatak, komodin, şifonyer ve depolama parçaları aynı ölçü ve malzeme diliyle planlanarak odanın dolaşım ve kullanım ihtiyacına uyarlanabilir.",
+  "canonical": "/hizmetler/yatak-odasi-mobilyalari/",
+  "bluf": "Yatak, komodin, şifonyer ve depolama parçaları aynı ölçü ve malzeme diliyle planlanarak odanın dolaşım ve kullanım ihtiyacına uyarlanabilir.",
+  "description": "Yatak, komodin, şifonyer ve depolama parçaları aynı ölçü ve malzeme diliyle planlanarak odanın dolaşım ve kullanım ihtiyacına uyarlanabilir.",
+  "scope": [
+    "Komodin",
+    "Şifonyer",
+    "Yatak başlığı",
+    "Sabit depolama"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Masif ahşap"
+  ],
+  "process": [
+    "İhtiyaç",
+    "Alan ölçüsü",
+    "Parça yerleşimi",
+    "Malzeme",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Parça sayısı",
+    "Ölçü",
+    "Malzeme",
+    "Donanım",
+    "Montaj"
+  ],
+  "benefits": [
+    "Komodin",
+    "Şifonyer",
+    "Yatak başlığı",
+    "Sabit depolama"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Yatak odası mobilyaları süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Yatak odası mobilyaları fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "gardrop",
+    "gomme-dolap",
+    "ozel-olcu-mobilya",
+    "calisma-masasi"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

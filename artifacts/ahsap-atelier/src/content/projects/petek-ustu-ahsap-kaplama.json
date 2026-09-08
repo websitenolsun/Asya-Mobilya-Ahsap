@@ -1,0 +1,74 @@
+{
+  "slug": "petek-ustu-ahsap-kaplama",
+  "name": "Petek Üstü Ahşap Kaplama Detayı",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "Isıtma elemanı çevresindeki görsel karmaşayı azaltmak için dekoratif ahşap ızgara/panel dili kullanan küçük ölçekli uygulama.",
+  "challenge": "Teknik elemanı gizlerken hava akışı ve erişim ihtiyacını dikkate alan bir görünüm oluşturmak.",
+  "solution": "Havalandırma boşlukları olan dekoratif bir ahşap yüzey olarak kurgulandı.",
+  "dimensions": "≈ 1,80 m genişlik × 0,85 m yükseklik",
+  "duration": "2-3 iş günü",
+  "result": "Teknik elemanın mekânın genel malzeme diliyle daha uyumlu görünmesi hedeflenir.",
+  "materials": [
+    "Ahşap çıta",
+    "MDF panel"
+  ],
+  "services": [
+    "ahsap-bolme-dekorasyon",
+    "ahsap-raf-sistemleri"
+  ],
+  "seoTitle": "Petek Üstü Ahşap Kaplama Detayı | Asya Mobilya Ahşap",
+  "seoDescription": "Isıtma elemanı çevresindeki görsel karmaşayı azaltmak için dekoratif ahşap ızgara/panel dili kullanan küçük ölçekli uygulama.",
+  "canonical": "/projeler/petek-ustu-ahsap-kaplama/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "petek-ustu-ahsap-kaplama-1",
+      "type": "image",
+      "src": "/media/projects/radiator-cover-01.webp",
+      "alt": "Petek Üstü Ahşap Kaplama Detayı — fotoğraf 1",
+      "label": "Petek Üstü Ahşap Kaplama Detayı",
+      "tone": "portfolio",
+      "caption": "Isıtma elemanı çevresindeki görsel karmaşayı azaltmak için dekoratif ahşap ızgara/panel dili kullanan küçük ölçekli uygulama.",
+      "serviceSlugs": [
+        "ahsap-bolme-dekorasyon",
+        "ahsap-raf-sistemleri"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "petek-ustu-ahsap-kaplama"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "ahsap-bolme-dekorasyon",
+    "ahsap-raf-sistemleri"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "petek-ustu-ahsap-kaplama-1",
+    "type": "image",
+    "src": "/media/projects/radiator-cover-01.webp",
+    "alt": "Petek Üstü Ahşap Kaplama Detayı — fotoğraf 1",
+    "label": "Petek Üstü Ahşap Kaplama Detayı",
+    "tone": "portfolio",
+    "caption": "Isıtma elemanı çevresindeki görsel karmaşayı azaltmak için dekoratif ahşap ızgara/panel dili kullanan küçük ölçekli uygulama.",
+    "serviceSlugs": [
+      "ahsap-bolme-dekorasyon",
+      "ahsap-raf-sistemleri"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "petek-ustu-ahsap-kaplama"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

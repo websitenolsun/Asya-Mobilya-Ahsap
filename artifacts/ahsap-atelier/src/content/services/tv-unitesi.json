@@ -1,0 +1,77 @@
+{
+  "slug": "tv-unitesi",
+  "title": "TV ünitesi yapımı",
+  "category": "Özel üretim",
+  "seoTitle": "TV ünitesi yapımı | Asya Mobilya Ahşap",
+  "seoDescription": "TV ünitesi planlanırken ekranla birlikte cihazlar, kablolar, depolama ihtiyacı ve duvarın gerçek ölçüsü düşünülür.",
+  "canonical": "/hizmetler/tv-unitesi/",
+  "bluf": "TV ünitesi planlanırken ekranla birlikte cihazlar, kablolar, depolama ihtiyacı ve duvarın gerçek ölçüsü düşünülür.",
+  "description": "TV ünitesi planlanırken ekranla birlikte cihazlar, kablolar, depolama ihtiyacı ve duvarın gerçek ölçüsü düşünülür.",
+  "scope": [
+    "TV paneli",
+    "Alt modüller",
+    "Raflar",
+    "Cihaz alanı",
+    "Kablo geçişleri"
+  ],
+  "materials": [
+    "MDF-lam",
+    "Lake",
+    "Ahşap kaplama",
+    "Çıta/panel"
+  ],
+  "process": [
+    "Cihaz listesi",
+    "Duvar ölçüsü",
+    "Kompozisyon",
+    "Malzeme",
+    "Üretim",
+    "Montaj"
+  ],
+  "pricingFactors": [
+    "Toplam ölçü",
+    "Modül sayısı",
+    "Kapak/raf",
+    "Yüzey",
+    "Kablo detayları"
+  ],
+  "benefits": [
+    "TV paneli",
+    "Alt modüller",
+    "Raflar",
+    "Cihaz alanı",
+    "Kablo geçişleri"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "TV ünitesi yapımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "TV ünitesi yapımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    },
+    {
+      "id": "ozel",
+      "question": "TV ünitesinde kablo düzeni nasıl planlanır?",
+      "answer": "TV, medya cihazları ve priz noktaları önceden belirlenerek kablo geçişleri ve erişim noktaları buna göre düzenlenebilir."
+    }
+  ],
+  "relatedServices": [
+    "ozel-olcu-mobilya",
+    "ahsap-raf-sistemleri",
+    "ahsap-bolme-dekorasyon",
+    "kitaplik"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

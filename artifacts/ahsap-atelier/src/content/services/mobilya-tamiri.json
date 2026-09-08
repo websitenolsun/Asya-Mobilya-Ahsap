@@ -1,0 +1,73 @@
+{
+  "slug": "mobilya-tamiri",
+  "title": "Mobilya tamiri",
+  "category": "Tamir ve yenileme",
+  "seoTitle": "Mobilya tamiri | Asya Mobilya Ahşap",
+  "seoDescription": "Mobilya tamirinde önce gevşek birleşim, kırık parça, yüzey hasarı veya donanım sorunu ayrıştırılır; her durum farklı müdahale gerektirir.",
+  "canonical": "/hizmetler/mobilya-tamiri/",
+  "bluf": "Mobilya tamirinde önce gevşek birleşim, kırık parça, yüzey hasarı veya donanım sorunu ayrıştırılır; her durum farklı müdahale gerektirir.",
+  "description": "Mobilya tamirinde önce gevşek birleşim, kırık parça, yüzey hasarı veya donanım sorunu ayrıştırılır; her durum farklı müdahale gerektirir.",
+  "scope": [
+    "Birleşim onarımı",
+    "Kırık parça",
+    "Yüzey hasarı",
+    "Donanım sorunları"
+  ],
+  "materials": [
+    "Mevcut malzeme",
+    "Bağlantı elemanları",
+    "Yüzey onarım ürünleri"
+  ],
+  "process": [
+    "Hasar tespiti",
+    "Parça kontrolü",
+    "Yöntem seçimi",
+    "Uygulama",
+    "Kontrol"
+  ],
+  "pricingFactors": [
+    "Hasar türü",
+    "Malzeme",
+    "Yedek parça",
+    "Yüzey",
+    "İşçilik"
+  ],
+  "benefits": [
+    "Birleşim onarımı",
+    "Kırık parça",
+    "Yüzey hasarı",
+    "Donanım sorunları"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Mobilya tamiri süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Mobilya tamiri fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    },
+    {
+      "id": "ozel",
+      "question": "Her mobilya tamir edilebilir mi?",
+      "answer": "Hasarın seviyesi, malzeme, yapısal durum ve gerekli parçaların bulunabilirliği değerlendirilerek tamir veya yenileme seçenekleri karşılaştırılır."
+    }
+  ],
+  "relatedServices": [
+    "mobilya-tadilati",
+    "hasarli-mobilya-onarimi",
+    "mentese-ray-aksesuar-degisimi",
+    "eski-mobilya-yenileme"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

@@ -1,0 +1,29 @@
+kind = "web"
+previewPath = "/"
+title = "Asya Mobilya Ahşap"
+description = "Özel ölçü mobilya ve marangozluk hizmetleri için premium, mobil öncelikli ve SEO altyapısı hazır web sitesi iskeleti."
+version = "1.0.0"
+id = "artifacts/ahsap-atelier"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24084
+
+[services.development]
+run = "pnpm --filter @workspace/ahsap-atelier run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/ahsap-atelier", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/ahsap-atelier/dist/public"
+
+[services.production.env]
+PORT = "24084"
+BASE_PATH = "/"
+
+
+[services.env]
+PORT = "24084"
+BASE_PATH = "/"

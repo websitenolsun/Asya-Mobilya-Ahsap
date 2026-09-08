@@ -1,0 +1,118 @@
+{
+  "slug": "yatak-odasi-sabit-dolap",
+  "name": "Yatak Odası Sabit Dolap Çözümü",
+  "type": "Proje",
+  "year": "2025",
+  "summary": "Yatak odasında uzun bir duvarı depolama yüzeyine dönüştüren, kapak ve açık nişleri birlikte kullanan sabit dolap kurgusu.",
+  "challenge": "Uzun duvarı tek parça bir kütle gibi göstermeden yüksek depolama sağlamak.",
+  "solution": "Kapaklı modüller açık nişlerle bölünerek daha ritmik bir cephe oluşturuldu.",
+  "dimensions": "≈ 3,20 m genişlik × 2,55 m yükseklik",
+  "duration": "4-5 iş günü",
+  "result": "Depolama ile oda cephesinin daha düzenli görünmesi hedeflenir.",
+  "materials": [
+    "MDF-lam",
+    "Lake"
+  ],
+  "services": [
+    "gardrop",
+    "gomme-dolap",
+    "yatak-odasi-mobilyalari"
+  ],
+  "seoTitle": "Yatak Odası Sabit Dolap Çözümü | Asya Mobilya Ahşap",
+  "seoDescription": "Yatak odasında uzun bir duvarı depolama yüzeyine dönüştüren, kapak ve açık nişleri birlikte kullanan sabit dolap kurgusu.",
+  "canonical": "/projeler/yatak-odasi-sabit-dolap/",
+  "faqs": [],
+  "gallery": [
+    {
+      "id": "yatak-odasi-sabit-dolap-1",
+      "type": "image",
+      "src": "/media/projects/wardrobe-04.webp",
+      "alt": "Yatak Odası Sabit Dolap Çözümü — fotoğraf 1",
+      "label": "Yatak Odası Sabit Dolap Çözümü",
+      "tone": "portfolio",
+      "caption": "Yatak odasında uzun bir duvarı depolama yüzeyine dönüştüren, kapak ve açık nişleri birlikte kullanan sabit dolap kurgusu.",
+      "serviceSlugs": [
+        "gardrop",
+        "gomme-dolap",
+        "yatak-odasi-mobilyalari"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "yatak-odasi-sabit-dolap"
+      ]
+    },
+    {
+      "id": "yatak-odasi-sabit-dolap-2",
+      "type": "image",
+      "src": "/media/projects/bedroom-01.webp",
+      "alt": "Yatak Odası Sabit Dolap Çözümü — fotoğraf 2",
+      "label": "Yatak Odası Sabit Dolap Çözümü",
+      "tone": "portfolio",
+      "caption": "Yatak odasında uzun bir duvarı depolama yüzeyine dönüştüren, kapak ve açık nişleri birlikte kullanan sabit dolap kurgusu.",
+      "serviceSlugs": [
+        "gardrop",
+        "gomme-dolap",
+        "yatak-odasi-mobilyalari"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "yatak-odasi-sabit-dolap"
+      ]
+    },
+    {
+      "id": "yatak-odasi-sabit-dolap-3",
+      "type": "image",
+      "src": "/media/projects/bedroom-02.webp",
+      "alt": "Yatak Odası Sabit Dolap Çözümü — fotoğraf 3",
+      "label": "Yatak Odası Sabit Dolap Çözümü",
+      "tone": "portfolio",
+      "caption": "Yatak odasında uzun bir duvarı depolama yüzeyine dönüştüren, kapak ve açık nişleri birlikte kullanan sabit dolap kurgusu.",
+      "serviceSlugs": [
+        "gardrop",
+        "gomme-dolap",
+        "yatak-odasi-mobilyalari"
+      ],
+      "locationSlugs": [
+        "kagithane"
+      ],
+      "projectSlugs": [
+        "yatak-odasi-sabit-dolap"
+      ]
+    }
+  ],
+  "videos": [],
+  "relatedServices": [
+    "gardrop",
+    "gomme-dolap",
+    "yatak-odasi-mobilyalari"
+  ],
+  "relatedLocations": [
+    "kagithane"
+  ],
+  "relatedProjects": [],
+  "media": {
+    "id": "yatak-odasi-sabit-dolap-1",
+    "type": "image",
+    "src": "/media/projects/wardrobe-04.webp",
+    "alt": "Yatak Odası Sabit Dolap Çözümü — fotoğraf 1",
+    "label": "Yatak Odası Sabit Dolap Çözümü",
+    "tone": "portfolio",
+    "caption": "Yatak odasında uzun bir duvarı depolama yüzeyine dönüştüren, kapak ve açık nişleri birlikte kullanan sabit dolap kurgusu.",
+    "serviceSlugs": [
+      "gardrop",
+      "gomme-dolap",
+      "yatak-odasi-mobilyalari"
+    ],
+    "locationSlugs": [
+      "kagithane"
+    ],
+    "projectSlugs": [
+      "yatak-odasi-sabit-dolap"
+    ]
+  },
+  "locationLabel": "Kağıthane / İstanbul"
+}

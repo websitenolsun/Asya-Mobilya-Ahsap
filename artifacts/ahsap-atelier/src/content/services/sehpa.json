@@ -1,0 +1,67 @@
+{
+  "slug": "sehpa",
+  "title": "Sehpa yapımı",
+  "category": "Özel üretim",
+  "seoTitle": "Sehpa yapımı | Asya Mobilya Ahşap",
+  "seoDescription": "Sehpa ölçüsü koltuk yüksekliği ve oturma düzeniyle birlikte düşünülmeli; erişim mesafesi ve günlük kullanım görünüm kadar önemlidir.",
+  "canonical": "/hizmetler/sehpa/",
+  "bluf": "Sehpa ölçüsü koltuk yüksekliği ve oturma düzeniyle birlikte düşünülmeli; erişim mesafesi ve günlük kullanım görünüm kadar önemlidir.",
+  "description": "Sehpa ölçüsü koltuk yüksekliği ve oturma düzeniyle birlikte düşünülmeli; erişim mesafesi ve günlük kullanım görünüm kadar önemlidir.",
+  "scope": [
+    "Orta sehpa",
+    "Yan sehpa",
+    "Depolamalı sehpa",
+    "Özel formlar"
+  ],
+  "materials": [
+    "Masif ahşap",
+    "Ahşap kaplama",
+    "MDF-lam",
+    "Metal detay"
+  ],
+  "process": [
+    "Oturma ölçüsü",
+    "Form",
+    "Malzeme",
+    "Üretim",
+    "Teslim"
+  ],
+  "pricingFactors": [
+    "Ölçü",
+    "Malzeme",
+    "Ayak",
+    "Depolama detayı"
+  ],
+  "benefits": [
+    "Orta sehpa",
+    "Yan sehpa",
+    "Depolamalı sehpa",
+    "Özel formlar"
+  ],
+  "faqs": [
+    {
+      "id": "surec",
+      "question": "Sehpa yapımı süreci nasıl ilerler?",
+      "answer": "İhtiyaç ve mevcut alan değerlendirilir; ölçü, kapsam, malzeme ve detaylar netleştirilir, ardından üretim ve gerekiyorsa montaj planlanır."
+    },
+    {
+      "id": "fiyat",
+      "question": "Sehpa yapımı fiyatı nelerden etkilenir?",
+      "answer": "Ölçü, kapsam, malzeme, yüzey, donanım, işçilik ve uygulamanın saha koşulları fiyatı etkileyebilir."
+    },
+    {
+      "id": "olcu",
+      "question": "Ölçü nasıl belirlenir?",
+      "answer": "Uygulamanın türüne göre mevcut alan, açıklıklar, duvar/niş ve kullanım koşulları birlikte değerlendirilerek net ölçü çıkarılır."
+    }
+  ],
+  "relatedServices": [
+    "yemek-masasi",
+    "ozel-olcu-mobilya",
+    "tv-unitesi"
+  ],
+  "relatedLocations": [],
+  "relatedProjects": [],
+  "gallery": [],
+  "videos": []
+}

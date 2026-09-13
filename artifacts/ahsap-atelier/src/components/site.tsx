@@ -1,5 +1,5 @@
 import { useEffect, useState, type ReactNode } from 'react';
-import { ArrowUpRight, ChevronRight, Instagram, Mail, Menu, Plus, X } from 'lucide-react';
+import { ArrowUpRight, ChevronRight, Instagram, Mail, Menu, Phone, Plus, X } from 'lucide-react';
 import { Link, useLocation } from 'wouter';
 import { blogPosts, faqs, SITE_ORIGIN, type BlogPost, type Location, type Media, type Project, type Service } from '@/data';
 
@@ -107,10 +107,11 @@ export function SiteHeader() {
 
 export function SiteFooter() {
   return <footer className="border-t hairline bg-[#e8e0d3]">
-    <div className="container-wide grid gap-12 py-14 md:grid-cols-[1.2fr_.8fr_.8fr] md:py-20">
+    <div className="container-wide grid gap-12 py-14 md:grid-cols-[1.2fr_.8fr_.8fr_1.3fr] md:py-20">
       <div><div className="mb-5 flex items-center gap-3"><img src="/media/logo/logo.webp" alt="Asya Mobilya Ahşap" width="36" height="36" decoding="async" className="h-9 w-9 rounded-full border object-cover" /><span className="text-sm font-semibold tracking-[.12em]">ASYA MOBİLYA AHŞAP</span></div><p className="max-w-xs text-sm leading-6 text-muted-foreground">Ölçüsü size ait, işçiliği zamana ait özel mobilyalar ve mimari ahşap işler.</p></div>
       <div><p className="eyebrow mb-5">Keşfet</p><div className="flex flex-col gap-3 text-sm"><Link href="/marangoz/" className="hover:text-primary" data-testid="link-footer-services">Hizmetler</Link><Link href="/hakkimizda/" className="hover:text-primary" data-testid="link-footer-about">Atölye</Link><Link href="/blog/" className="hover:text-primary" data-testid="link-footer-blog">Notlar</Link></div></div>
-      <div><p className="eyebrow mb-5">Temas</p><div className="flex flex-col gap-3 text-sm"><Link href="/iletisim/" className="flex items-center gap-2 hover:text-primary" data-testid="link-footer-contact"><Mail size={15} /> İletişim formu</Link><span className="text-muted-foreground">İstanbul ve çevresi · yer tutucu</span><span className="flex items-center gap-2 text-muted-foreground"><Instagram size={15} /> Sosyal kanal yer tutucu</span></div></div>
+      <div><p className="eyebrow mb-5">Temas</p><div className="flex flex-col gap-3 text-sm"><Link href="/iletisim/" className="flex items-center gap-2 hover:text-primary" data-testid="link-footer-contact"><Mail size={15} /> İletişim formu</Link><span className="text-sm leading-6 text-muted-foreground">Çeliktepe Kahramanlar Cad. &amp; Han Sokak 12/A<br />34413 Kağıthane/İstanbul Türkiye</span><a href="tel:+905375015408" className="flex items-center gap-2 hover:text-primary" data-testid="link-footer-phone"><Phone size={15} /> +90 537 501 54 08</a><a href="https://www.instagram.com/asyamobilyaahsap/" className="flex items-center gap-2 hover:text-primary" target="_blank" rel="noopener noreferrer" data-testid="link-footer-instagram"><Instagram size={15} /> Instagram</a></div></div>
+      <div><p className="eyebrow mb-5">Konum</p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.3949200090437!2d29.001952400000004!3d41.082217199999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab66058374013%3A0x2d7d9c42957a2217!2sAsya%20Mobilya!5e0!3m2!1str!2str!4v1789314296909!5m2!1str!2str" title="Asya Mobilya Ahşap konumu" className="min-h-[220px] w-full flex-1 rounded-sm border-0" loading="lazy" allowFullScreen referrerPolicy="strict-origin-when-cross-origin" /></div>
     </div>
     <div className="container-wide flex flex-col justify-between gap-3 border-t hairline py-5 text-[11px] text-muted-foreground md:flex-row"><span>© Asya Mobilya Ahşap · İçerik yer tutucu</span><span className="font-mono uppercase tracking-[.12em]">Malzeme / ölçü / emek</span></div>
   </footer>;

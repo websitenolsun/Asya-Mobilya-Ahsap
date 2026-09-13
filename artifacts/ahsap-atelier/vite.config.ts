@@ -24,6 +24,7 @@ function seoFirstStaticHtml() {
       const pages: StaticPage[] = [
         page('/', 'Özel üretim mobilya ve mimari ahşap işleri', 'Asya Mobilya Ahşap; eviniz, projeniz ve kullanım biçiminiz için özel üretim mobilya ve mimari ahşap detaylar tasarlar.', 'Mekâna yer açan ahşap.', { '@type': 'LocalBusiness', name: 'Asya Mobilya Ahşap' }),
         page('/marangoz/', 'Hizmetler', 'Mutfak, sabit mobilya, mimari ahşap işler ve özel parçalar için Asya Mobilya Ahşap hizmetleri.', 'Mekânı birlikte kuran işler.', { '@type': 'Organization', name: 'Asya Mobilya Ahşap' }),
+        page('/projeler/', 'Projeler', 'Asya Mobilya Ahşap\'ın özel üretim mobilya ve mimari ahşap işleri.', 'Tamamlanan işler.', { '@type': 'CollectionPage', name: 'Asya Mobilya Ahşap projeleri' }),
         page('/hakkimizda/', 'Atölye', "Asya Mobilya Ahşap'ın ölçü, malzeme ve işçilik etrafında şekillenen yaklaşımı.", 'Eşyadan önce, ilişkiyi tasarlıyoruz.', { '@type': 'Organization', name: 'Asya Mobilya Ahşap' }),
         page('/iletisim/', 'İletişim', 'Özel mobilya veya mimari ahşap projenizi Asya Mobilya Ahşap’a anlatın.', 'Projenizi anlatın.', { '@type': 'Organization', name: 'Asya Mobilya Ahşap' }),
         ...services.map((item) => page(item.canonical, item.seoTitle, item.seoDescription, item.name, { '@type': 'Service', name: item.name, description: item.summary })),

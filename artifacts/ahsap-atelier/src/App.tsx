@@ -1,6 +1,6 @@
 import { type ReactNode } from 'react';
 import { Route, Switch, useLocation, Router as WouterRouter } from 'wouter';
-import { About, BlogDetail, BlogIndex, Contact, Home, LocationDetail, LocationsHub, MissingState, ProjectDetail, ServiceDetail, ServicesHub } from '@/pages';
+import { About, BlogDetail, BlogIndex, Contact, Home, LocationDetail, LocationsHub, MissingState, ProjectDetail, ProjectsIndex, ServiceDetail, ServicesHub } from '@/pages';
 
 function Router() {
   return <RoutedErrorBoundary><Switch>
@@ -10,6 +10,7 @@ function Router() {
     <Route path="/hizmetler/:slug/" component={ServiceDetail} />
     <Route path="/hizmet-bolgeleri/" component={LocationsHub} />
     <Route path="/hizmet-bolgeleri/:slug/" component={LocationDetail} />
+    <Route path="/projeler/" component={ProjectsIndex} />
     <Route path="/projeler/:slug/" component={ProjectDetail} />
     <Route path="/blog/:slug/" component={BlogDetail} />
     <Route path="/hakkimizda/" component={About} />

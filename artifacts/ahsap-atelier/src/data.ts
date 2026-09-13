@@ -111,4 +111,4 @@ export const faqs: Faq[] = [
 
 export const findBySlug = <T extends { slug: string }>(items: T[], slug?: string) => items.find((item) => item.slug === slug);
 export const SITE_ORIGIN = 'https://asyamobilyaahsap.com';
-export const generateSitemap = (origin = SITE_ORIGIN) => [...new Set(['/', '/marangoz/', '/hakkimizda/', '/iletisim/', ...services.map((item) => item.canonical), ...locations.map((item) => item.canonical), ...projects.map((item) => item.canonical), ...blogPosts.map((item) => item.canonical)])].map((path) => `${origin}${path}`);
+export const generateSitemap = (origin = SITE_ORIGIN) => [...new Set(['/', '/marangoz/', '/hakkimizda/', '/iletisim/', '/projeler/', ...services.map((item) => item.canonical), ...locations.map((item) => item.canonical), ...projects.map((item) => item.canonical), ...blogPosts.map((item) => item.canonical)])].map((path) => `${origin}${path}`);

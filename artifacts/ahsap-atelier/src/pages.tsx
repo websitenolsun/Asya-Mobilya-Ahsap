@@ -26,7 +26,7 @@ function EntityFaqs({ faqs: entityFaqs }: { faqs: Faq[] }) {
 }
 
 function Home() {
-  return <Shell><Seo title="Özel üretim mobilya ve mimari ahşap işleri" description="Asya Mobilya Ahşap; eviniz, projeniz ve kullanım biçiminiz için özel üretim mobilya ve mimari ahşap detaylar tasarlar." canonical="/" jsonLd={[localBusinessSchema]} />
+  return <Shell><Seo title="Çeliktepe Marangoz & Özel Ölçü Mobilya | Asya Mobilya" description="Çeliktepe'de özel ölçü marangoz ve mobilya hizmetleri. Mutfak dolabı, gömme dolap, gardırop, TV ünitesi ve ahşap işler için Asya Mobilya Ahşap'a ulaşın." canonical="/" jsonLd={[localBusinessSchema]} />
     <section className="container-wide relative grid min-h-[calc(100dvh-76px)] items-center gap-10 py-12 md:grid-cols-[.92fr_1.08fr] md:gap-20 md:py-20">
       <div className="relative z-10 reveal"><p className="eyebrow mb-6">İstanbul · ölçüye göre üretim</p><h1 className="display max-w-xl text-[clamp(3.8rem,8vw,7.7rem)] leading-[.88]">Mekâna<br /><em className="text-primary">yer açan</em><br />ahşap.</h1><p className="mt-8 max-w-md text-base leading-7 text-muted-foreground md:text-lg">Eviniz için düşünülmüş özel mobilyalar, mimari ahşap işler ve atölye titizliğinde bir üretim süreci.</p><div className="mt-9 flex flex-wrap gap-3"><Link href="/iletisim/" className="btn-primary focus-ring" data-testid="link-hero-contact">Projenizi anlatın <ArrowUpRight size={16} /></Link><Link href="/marangoz/" className="btn-quiet focus-ring" data-testid="link-hero-services">Hizmetleri keşfedin</Link></div></div>
       <div className="relative reveal reveal-delay-2">

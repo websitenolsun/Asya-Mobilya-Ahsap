@@ -1,6 +1,6 @@
 interface ContactPayload {
   name?: unknown;
-  email?: unknown;
+  phone?: unknown;
   project?: unknown;
 }
 
@@ -35,16 +35,16 @@ export async function onRequestPost({ request, env }: { request: Request; env: C
 
   const form = {
     name: clean(payload.name),
-    email: clean(payload.email),
+    phone: clean(payload.phone).replace(/[\s\-().]/g, ''),
     project: clean(payload.project),
   };
 
-  if (!form.name || !form.email || !form.project) {
+  if (!form.name || !form.phone || !form.project) {
     return json({ ok: false, error: 'Tüm alanlar gereklidir.' }, 400);
   }
 
-  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(form.email)) {
-    return json({ ok: false, error: 'Geçerli bir e-posta adresi girin.' }, 400);
+  if (!/^(?:0|\+90)?5\d{9}$/.test(form.phone)) {
+    return json({ ok: false, error: 'Geçerli bir cep telefonu numarası girin.' }, 400);
   }
 
   const resend = await fetch('https://api.resend.com/emails', {
@@ -56,13 +56,12 @@ export async function onRequestPost({ request, env }: { request: Request; env: C
     body: JSON.stringify({
       from: env.RESEND_FROM ?? 'onboarding@resend.dev',
       to: [env.RESEND_TO ?? 'asyamobilyaweb@proton.me'],
-      reply_to: form.email,
       subject: `İletişim formu — ${form.name}`,
       html: `
         <div style="font-family: Arial, sans-serif; max-width: 560px; margin: 0 auto; color: #2e241e;">
           <h2 style="margin-bottom: 20px;">Yeni iletişim formu</h2>
           <p><strong>Ad:</strong> ${escapeHtml(form.name)}</p>
-          <p><strong>E-posta:</strong> ${escapeHtml(form.email)}</p>
+          <p><strong>Cep telefonu:</strong> ${escapeHtml(form.phone)}</p>
           <p><strong>Mesaj:</strong></p>
           <p style="white-space: pre-wrap;">${escapeHtml(form.project)}</p>
         </div>
